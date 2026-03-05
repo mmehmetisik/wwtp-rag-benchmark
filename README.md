@@ -11,7 +11,7 @@
 >
 > 25 large language models were tested as virtual operators of a wastewater treatment plant across a full 365-day simulation — in three RAG modes: BARE (no docs), PASSIVE RAG (auto-injected), and ACTIVE RAG (LLM-initiated search).
 
-🔗 **[View on Kaggle Benchmarks](https://www.kaggle.com/benchmarks/PLACEHOLDER)**
+🔗 **[View on Kaggle Benchmarks](https://www.kaggle.com/benchmarks/tasks/mehmetisik/wwtp-rag-v10/settings)**
 
 ---
 
