@@ -80,31 +80,7 @@ Decisions are scored across 5 categories: Effluent Compliance, Process Stability
 
 ```
 wwtp-rag-benchmark/
-├── data/
-│   ├── scenarios/
-│   │   ├── wwtp_365day_scenario.csv  # 365-day simulation scenario (events, severity, expected actions)
-│   │   ├── wwtp_config.json          # Plant configuration and simulation parameters
-│   │   └── answer_key.json           # Ground-truth scoring reference
-│   ├── lab/
-│   │   └── ceyhan_wwtp_lab_results.csv  # Real plant lab data used for engine calibration
-│   ├── knowledge_base/               # RAG document corpus (9 domain documents)
-│   │   ├── corpus_index.json
-│   │   ├── emergency_response_plan.json
-│   │   ├── equipment_catalog.json
-│   │   ├── laboratory_procedures.json
-│   │   ├── maintenance_records.json
-│   │   ├── operations_manual.json
-│   │   ├── process_design_parameters.json
-│   │   ├── regulatory_framework.json
-│   │   └── sludge_management_guide.json
-│   └── model_outputs/                # Raw JSON outputs from all 25 models
-│       ├── Claude_Haiku_4_5.json
-│       ├── Claude_Opus_4_6.json
-│       ├── DeepSeek-R1.json
-│       ├── Gemini_3_Flash_Preview.json
-│       └── ... (25 models total)
-├── report/
-│   └── RAG_Under_Pressure_EN.docx    # Full benchmark report (English)
+├── RAG_Under_Pressure_EN.docx    # Full benchmark report (English)
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
