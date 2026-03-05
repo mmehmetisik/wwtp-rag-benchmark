@@ -134,8 +134,10 @@ Same model. Same data. Same violations. Only the prompt language changed.
 
 ## 🔗 Links
 
-- 📊 [Kaggle Benchmark](https://www.kaggle.com/benchmarks) — wwtp_rag_v10
-- 👤 [Kaggle Profile](https://www.kaggle.com/mehmetisik) — Mehmet Isik
+- 🌐 [Personal Website](https://mehmetisik.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehmetisik4601/)
+- 📊 [Kaggle](https://www.kaggle.com/mehmetisik)
+- ✍️ [Medium](https://medium.com/@mmehmetisik)
 
 ---
 
